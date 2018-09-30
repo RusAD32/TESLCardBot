@@ -14,7 +14,6 @@ def remove_duplicates(seq):
     seen_add = seen.add
     return [x for x in seq if not (x in seen or seen_add(x))]
 
-
 class Card:
     CARD_IMAGE_BASE_URL = 'http://www.legends-decks.com/img_cards/{}.png'
     CARD_IMAGE_404_URL = 'http://imgur.com/1Lxy3DA'
@@ -177,7 +176,6 @@ class Card:
             keywords=', '.join(map(str, self.keywords)) + '' if len(self.keywords) > 0 else 'None',
             text=self.text if len(self.text) > 0 else 'This card\'s name isn\'t in the database. Possible typo?'
         )
-
 
 class TESLCardBot:
     CARD_MENTION_REGEX = re.compile(r'\{\{((?:.*?)+)\}\}')
