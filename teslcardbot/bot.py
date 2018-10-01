@@ -143,9 +143,9 @@ class Card:
         self.name = name
         self.img_url = img_url
         self.type = type
-        if len(attribute3) > 0:
+        if len(attribute_3) > 0:
             self.attributes = [attribute_1.title(), attribute_2.title(), attribute_3.title()]
-        if len(attribute_2) > 0
+        if len(attribute_2) > 0:
             self.attributes = [attribute_1.title(), attribute_2.title()]   
         else [attribute_1.title()]
         self.rarity = rarity
