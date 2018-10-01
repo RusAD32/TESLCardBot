@@ -148,7 +148,7 @@ class Card:
         if len(attribute_2) > 0:
             self.attributes = [attribute_1.title(), attribute_2.title()]   
         else:
-            [attribute_1.title()]
+            self.attributes = [attribute_1.title()]
         self.rarity = rarity
         self.unique = unique
         self.cost = cost
