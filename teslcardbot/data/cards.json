@@ -41171,7 +41171,7 @@
     "isunique": true,
     "type": "creature",
     "attribute_1": "intelligence",
-    "attribute_2": "",
+    "attribute_2": "agility",
     "cost": "4",
     "attack": "6",
     "health": "3",
