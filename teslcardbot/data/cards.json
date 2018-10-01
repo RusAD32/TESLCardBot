@@ -43303,7 +43303,7 @@
     "type": "creature",
     "attribute_1": "strength",
     "attribute_2": "willpower",
-	"attribute_3": "endurance"
+	"attribute_3": "endurance",
     "cost": "2",
     "attack": "1",
     "health": "1",
