@@ -44291,7 +44291,7 @@
     "type": "creature",
     "attribute_1": "strength",
     "attribute_2": "willpower",
-	"attribute_3": "endurance"
+	"attribute_3": "endurance",
     "cost": "3",
     "attack": "3",
     "health": "3",
@@ -46485,7 +46485,7 @@
     "type": "creature",
     "attribute_1": "intelligence",
     "attribute_2": "willpower",
-	"attribute_3": "endurance"
+	"attribute_3": "endurance",
     "cost": "4",
     "attack": "3",
     "health": "3",
@@ -47507,7 +47507,7 @@
     "type": "creature",
     "attribute_1": "strength",
     "attribute_2": "willpower",
-	"attribute_3": "endurance"
+	"attribute_3": "endurance",
     "cost": "4",
     "attack": "2",
     "health": "4",
@@ -56499,7 +56499,7 @@
     "type": "creature",
     "attribute_1": "strength",
     "attribute_2": "intelligence",
-	"attribute_3": "endurance"
+	"attribute_3": "endurance",
     "cost": "5",
     "attack": "5",
     "health": "4",
@@ -65079,7 +65079,7 @@
     "type": "creature",
     "attribute_1": "intelligence",
     "attribute_2": "agility",
-	"attribute_3": "endurance"
+	"attribute_3": "endurance",
     "cost": "5",
     "attack": "4",
     "health": "6",
@@ -94504,7 +94504,7 @@
     "type": "creature",
     "attribute_1": "intelligence",
     "attribute_2": "willpower",
-	"attribute_3": "endurance"
+	"attribute_3": "endurance",
     "cost": "7",
     "attack": "5",
     "health": "5",
@@ -105170,7 +105170,7 @@
     "type": "action",
     "attribute_1": "intelligence",
     "attribute_2": "willpower",
-	"attribute_3": "endurance"
+	"attribute_3": "endurance",
     "cost": "8",
     "attack": "0",
     "health": "0",
@@ -105379,7 +105379,7 @@
     "type": "action",
     "attribute_1": "intelligence",
     "attribute_2": "agility",
-	"attribute_3": "endurance"
+	"attribute_3": "endurance",
     "cost": "9",
     "attack": "0",
     "health": "0",
