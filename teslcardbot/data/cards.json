@@ -46008,7 +46008,7 @@
     "isunique": false,
     "type": "creature",
     "attribute_1": "intelligence",
-    "attribute_2": "agility"
+    "attribute_2": "agility",
 	"attribute_3": "endurance",
     "cost": "3",
     "attack": "2",
@@ -47334,7 +47334,7 @@
     "type": "support",
     "attribute_1": "strength",
     "attribute_2": "willpower",
-	"attribute_3": "agility"
+	"attribute_3": "agility",
     "cost": "4",
     "race": "",
     "text": "Ongoing. Give the second creature you summon each turn +2/+2."
@@ -56292,7 +56292,7 @@
     "type": "creature",
     "attribute_1": "strength",
     "attribute_2": "willpower",
-	"attribute_3": "agility"
+	"attribute_3": "agility",
     "cost": "5",
     "attack": "4",
     "health": "5",
@@ -73931,7 +73931,7 @@
     "type": "creature",
     "attribute_1": "strength",
     "attribute_2": "intelligence",
-	"attribute_3": "agility"
+	"attribute_3": "agility",
     "cost": "6",
     "attack": "3",
     "health": "6",
@@ -116814,7 +116814,7 @@
     "type": "creature",
     "attribute_1": "strength",
     "attribute_2": "intelligence",
-	"attribute_3": "agility"
+	"attribute_3": "agility",
     "cost": "12",
     "attack": "8",
     "health": "8",
