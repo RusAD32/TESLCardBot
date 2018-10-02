@@ -255,6 +255,7 @@ class TESLCardBot:
 
         response += '\n**Did you know?** _{}_\n\n' \
                     '\n\n&nbsp;\n\n^(_I am a bot, and this action was performed {}. Created by user G3Kappa. ' \
+                    'Maintained by NotGooseFromTopGun. ' \
                     'Special thanks to Jeremy at legends-decks._)' \
                     '\n\n[^Source ^Code](https://github.com/jrwhitehead/TESLCardBot/) ^| [^Send ^PM](https://www.reddit.com/' \
                     'message/compose/?to={})'.format(did_you_know, auto_word, self.author)
