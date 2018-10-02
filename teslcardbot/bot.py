@@ -145,7 +145,7 @@ class Card:
         self.type = type
         if len(attribute_3) > 0:
             self.attributes = [attribute_1.title(), attribute_2.title(), attribute_3.title()]
-        if len(attribute_2) > 0:
+        elif len(attribute_2) > 0:
             self.attributes = [attribute_1.title(), attribute_2.title()]   
         else:
             self.attributes = [attribute_1.title()]
